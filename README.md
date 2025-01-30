@@ -3,7 +3,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=hello👋+friend+welcome✊;here+is+my+repo🫦;fork+and+star;🫂KEEP+USING+LUCKY+MD" alt="Typing SVG" /></a>
+<a href="[https://git.io/typing-svg](https://i.ibb.co/W4mjYHwL/lyrics-img.jpg)"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=hello👋+friend+welcome✊;here+is+my+repo🫦;fork+and+star;🫂KEEP+USING+LUCKY+MD" alt="Typing SVG" /></a>
   </p>
  
   
